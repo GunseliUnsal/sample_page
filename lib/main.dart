@@ -21,6 +21,6 @@ class MyApp extends StatelessWidget {
               backgroundColor: Colors.transparent),
           useMaterial3: true,
         ),
-        home: PodcastPageView());
+        home: const PodcastPageView());
   }
 }
